@@ -1,13 +1,13 @@
 <h2 align="left">👋 Hi! I'm Arthur, and I'm always learning something new!<br><br>💻 Interested in software development, automation, and cybersecurity. Currently exploring Linux servers, virtual machines, and ethical hacking.<br><br>📫 Let's connect! Feel free to reach out.</h2>
 
 ###
-
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4475923" style='border:none;'></iframe>
 <img align="right" height="150" src="https://i.gifer.com/Urqw.gif"  />
 
 ###
 
 <div align="left">
-  <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4475923" style='border:none;'></iframe>
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
