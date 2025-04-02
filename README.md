@@ -7,6 +7,7 @@
 ###
 
 <div align="left">
+  <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4475923" style='border:none;'></iframe>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
