@@ -1,4 +1,4 @@
-<h2 align="left">👋 Hi! I'm Arthur, and I'm always learning something new!<br><br>💻 Interested in software development, automation, and cybersecurity. Currently exploring Linux servers, virtual machines, and ethical hacking.<br><br>📫 Let's connect! Feel free to reach out.</h2>
+<h2 align="left">Hi! I'm Arthur<br><br>Interested in software development, automation, and cybersecurity. Currently exploring Linux servers, virtual machines, and ethical hacking.<br><br>📫 Let's connect! Feel free to reach out.</h2>
 
 ###
 <img src="https://tryhackme-badges.s3.amazonaws.com/Brawlmusic1234.png" alt="Your Image Badge" />
@@ -51,6 +51,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+![snake animation](https://github.com/arthurlelles/arthurlelles/blob/output/github-contribution-grid-snake2.svg)
 
 ###
