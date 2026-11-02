@@ -1,7 +1,7 @@
 <h2 align="left">Hi! I'm Arthur<br><br>Interested in software development, automation, and cybersecurity. Currently exploring Linux servers, virtual machines, and ethical hacking.<br><br>📫 Let's connect! Feel free to reach out.</h2>
 
 ###
-<script src="https://tryhackme.com/badge/t/51c222777db796ccc900c7bf303823f099c8824423730f1a29410dd853c31d61f32c2fb2db185b6c935b8ef6bc4e486f?theme=dark"></script>
+<img src="https://cdn-images.tryhackme.com/public-profile/Brawlmusic1234/badge-dark-dd61241b531c.png" alt="Brawlmusic1234's TryHackMe badge." width="400">
 <img align="right" height="150" src="https://i.gifer.com/Urqw.gif"  />
 
 ###
