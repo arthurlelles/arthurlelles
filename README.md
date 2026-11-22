@@ -4,7 +4,7 @@
 
 Information Systems student at UFU (Brazil). I build software, automate the boring stuff, and learn security by breaking things in a lab.
 
-🇧🇷 [Leia em português](https://github.com/arthurlelles/arthurlelles/blob/main/README.pt-br.md)
+🇧🇷 [Leia em português](https://github.com/arthurlelles/arthurlelles/blob/main/README.pt-BR.md)
 
 ```bash
 $ whoami
