@@ -25,10 +25,10 @@ linux-servers/  virtual-machines/  ethical-hacking/
 
 ## Selected projects
 
-- 🛡️ **[HIDS-AGENT](https://github.com/arthurlelles/HIDS-AGENT)**: host intrusion detection agent that collects Linux logs and reports in real time. *Work in progress.*
-- 🌲 **[Isolation Forest](https://github.com/arthurlelles/Isolation-Forest)**: anomaly detection using the Isolation Forest algorithm.
-- 🖥️ **[Kaien Linux](https://github.com/arthurlelles/Kaien-Linux)**: Linux-style terminal emulator for Windows.
-- ✅ **[ToDo-List](https://github.com/arthurlelles/ToDo-List)**: REST API built with Java, Spring Boot, Maven and H2.
+- 🛡️ **[HIDS-AGENT](https://github.com/arthurlelles/HIDS-AGENT)**: lightweight host-based monitoring agent for Linux that collects logs in real time (journald + log files), detects failures and generates reports. `Python` · *work in progress*
+- 🌲 **[Anomaly Detection with Isolation Forest](https://github.com/arthurlelles/Analise-de-Anomalias-com-Isolation-Forest)**: unsupervised ML script that flags anomalies in any numeric tabular dataset, with PCA visualization and CSV export. `Python` · `scikit-learn`
+- 🕵️ **[Cleartext Credential Sniffer](https://github.com/arthurlelles/Cleartext-Credential-Sniffer)**: Scapy-based sniffer that captures FTP/Telnet credentials in an isolated lab, masks passwords and scores their strength with Shannon entropy. `Python` · `Scapy`
+- 🖥️ **[Kaien Linux](https://github.com/arthurlelles/Kaien-Linux)**: batch script that maps common Linux commands (`ls`, `cat`, `touch`, `rm`...) to their CMD equivalents on Windows. `Batch`
 
 ## Let's connect
 
