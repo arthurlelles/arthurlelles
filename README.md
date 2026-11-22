@@ -1,7 +1,6 @@
 <h2 align="left">Hi! I'm Arthur<br><br>Interested in software development, automation, and cybersecurity. Currently exploring Linux servers, virtual machines, and ethical hacking.<br><br>📫 Let's connect! Feel free to reach out.</h2>
 
 ###
-<img src="https://cdn-images.tryhackme.com/public-profile/Brawlmusic1234/badge-dark-dd61241b531c.png" alt="Brawlmusic1234's TryHackMe badge." width="400">
 <img align="right" height="150" src="https://i.gifer.com/Urqw.gif"  />
 
 ###
