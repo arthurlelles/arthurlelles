@@ -1,45 +1,36 @@
-<h2 align="left">Hi! I'm Arthur<br><br>Interested in software development, automation, and cybersecurity. Currently exploring Linux servers, virtual machines, and ethical hacking.<br><br>📫 Let's connect! Feel free to reach out.</h2>
+<img align="right" height="150" src="https://i.gifer.com/Urqw.gif" />
 
-###
-<img align="right" height="150" src="https://i.gifer.com/Urqw.gif"  />
+# Hi, I'm Arthur 👋
 
-###
+Information Systems student at UFU (Brazil). I build software, automate the boring stuff, and learn security by breaking things in a lab.
 
-<div align="left">
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-</div>
+🇧🇷 [Leia em português](https://github.com/arthurlelles/arthurlelles/blob/main/README.pt-br.md)
 
-###
+```bash
+$ whoami
+arthurlelles
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/arthur-lelles-a22ab7286/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="mailto:arthurlelles80@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-</div>
+$ cat focus.txt
+software development · automation · cybersecurity
 
-###
+$ ls ~/lab
+linux-servers/  virtual-machines/  ethical-hacking/
+```
 
-<br clear="both">
+## Stack
 
-###
+<p>
+  <img src="https://skillicons.dev/icons?i=java,c,python,html,css,bash,mysql,linux,git,vscode&theme=dark" />
+</p>
+
+## Selected projects
+
+- 🛡️ **[HIDS-AGENT](https://github.com/arthurlelles/HIDS-AGENT)**: host intrusion detection agent that collects Linux logs and reports in real time. *Work in progress.*
+- 🌲 **[Isolation Forest](https://github.com/arthurlelles/Isolation-Forest)**: anomaly detection using the Isolation Forest algorithm.
+- 🖥️ **[Kaien Linux](https://github.com/arthurlelles/Kaien-Linux)**: Linux-style terminal emulator for Windows.
+- ✅ **[ToDo-List](https://github.com/arthurlelles/ToDo-List)**: REST API built with Java, Spring Boot, Maven and H2.
+
+## Let's connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-lelles-a22ab7286/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:arthurlelles80@gmail.com)
